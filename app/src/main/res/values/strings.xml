@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkpoint1GuillaumeDgr</string>
+    <string name="name">Name</string>
+    <string name="firstName">First Name</string>
+    <string name="school">School</string>
+    <string name="language">Language</string>
+    <string name="send">Send</string>
+    <string name="toast">Please fill all information</string>
+</resources>
